@@ -1,0 +1,34 @@
+http://stackoverflow.com/questions/10779563/custom-segue-animation
+http://stackoverflow.com/questions/11719871/source-view-controller-hides-during-custom-segue
+http://stackoverflow.com/questions/12941169/viewwillappear-called-twice-with-custom-segue-animation-using-transitionfromview
+http://blog.sina.com.cn/s/blog_6a99c8bc01012kil.html
+http://stackoverflow.com/questions/12957231/using-custom-push-segue-in-storyboard
+http://stackoverflow.com/questions/9826420/segue-animation-left-to-right
+
+
+more page ->tableview
+save animation
+
+http://stackoverflow.com/questions/554997/cancel-a-uiview-animation
+http://developer.apple.com/library/ios/#qa/qa1673/_index.html
+http://stackoverflow.com/questions/12891257/ios-how-to-stop-animation-of-a-view-whenever-any-touch-gesture-is-recognized
+
+
+
+http://www.chargepoint.com/careers/senior-iphone-developer.php
+https://www.seatme.com/
+
+
+http://stackoverflow.com/questions/12891257/ios-how-to-stop-animation-of-a-view-whenever-any-touch-gesture-is-recognized
+
+
+
+My name is Shai and I'm a 25 years old tech-enthusiast from Israel.
+My main fields of work are Web Application development (PHP) and iOS Development, but I try to get my hands on anything interesting from Servers/Amazon Web Services and learning new languages and i.
+
+
+iCloud
+http://stackoverflow.com/questions/8047217/how-can-i-use-icloud-to-synchronize-a-zip-file-between-my-apps/10069242#comment13538082_10069242
+http://www.cnblogs.com/tara/archive/2012/06/29/2564149.html
+
+http://stackoverflow.com/questions/7851039/how-to-use-icloud-to-store-and-sync-app-files
